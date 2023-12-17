@@ -2,4 +2,6 @@
 
 Hi all!
 
-i am just learning to develop, code and test codes in github
+Welcome to my world of learnings!
+
+You will find some interesting projects here. 
